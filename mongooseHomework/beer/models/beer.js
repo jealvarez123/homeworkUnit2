@@ -5,7 +5,7 @@ var BeerSchema = new Schema({
      title: String,
      type: String,
      image: String,
-     releaseDate: String
+     Address: String
     // you should fill the rest of this in
  });
 
